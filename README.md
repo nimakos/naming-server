@@ -1,2 +1,2 @@
 # naming-server
-Eureka Server for spring boot applications
+Eureka Server for spring boot applications supporting load balanced applications
